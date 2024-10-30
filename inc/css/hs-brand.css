@@ -1,0 +1,56 @@
+.hs-brand-logo-item img{
+	display: block;
+    height: auto;
+    max-width: 100%;
+	margin:0 auto;
+}
+
+.hs-brand-logo-item{
+	padding:0px 10px;
+}
+.hs-brand-logo-wrap .logo-listing a{
+	text-decoration:none;
+}
+.hs-brand-logo-wrap .logo-listing td{
+	padding:0px 10px;
+	border-bottom:1px dashed #ccc;
+}
+.hs-brand-logo-wrap .logo-listing td img{
+	max-height:80px;
+}
+.hs-brand-logo-wrap .logo-listing tr:nth-child(odd){
+	background:#efefef;
+}
+.hs-brand-logo-wrap .logo-listing th{
+	padding:10px;
+	border-bottom:1px dashed #ccc;
+	border-top:1px dashed #ccc;
+	background:#efefef;
+}
+.hs-brand-logo-wrap .logo-listing tr.logo-data{
+	height:80px;
+}
+.hs-brand-logo-wrap .postbox .inside{
+	display:block;
+}
+.hs-brand-logo-wrap .success_message{
+	color:green;
+}
+.hs-brand-logo-item.item img {
+    max-height: 100px;
+}
+.hs-brand-logo-wrap .required{
+	color:red;
+	font-size:10px;	
+}
+.hs-brand-logo-item.item {
+    display: flex;
+    height: 130px;
+    justify-content: center;
+}
+.hs-brand-logo-item.item > a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+	text-decoration:none;
+}
